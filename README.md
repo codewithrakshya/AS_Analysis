@@ -2,7 +2,7 @@
 - Replace test.bam and test.bed with a actual file names
 - run 'python main.py' in terminal
 
-Analyzing RNA-seq Data to Detect Alternative Splicing Events: A Comprehensive Approach
+# Analyzing RNA-seq Data to Detect Alternative Splicing Events: A Comprehensive Approach
 
 Introduction:
 Alternative splicing is a fundamental biological process that plays a crucial role in expanding proteomic diversity and regulating gene expression. Analyzing RNA-seq data provides valuable insights into alternative splicing events, enabling researchers to uncover intricate splicing patterns and their functional implications. In this research, we present a comprehensive approach to analyze RNA-seq data and detect alternative splicing events, leveraging the power of computational tools and statistical analysis.
