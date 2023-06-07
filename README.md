@@ -1,6 +1,6 @@
 
 - Replace test.bam and test.bed with a actual file names
-- run ==python main.py== in terminal
+- run 'python main.py' in terminal
 
 Analyzing RNA-seq Data to Detect Alternative Splicing Events: A Comprehensive Approach
 
