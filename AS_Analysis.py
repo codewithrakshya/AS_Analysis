@@ -8,11 +8,11 @@ Original file is located at
 
 https://www.pnas.org/doi/full/10.1073/pnas.1419161111
 
-# Data Download - Rakshya
-# Align the reads, Identify AS events, analyze CIGAR strings - Rakshya
-# Statistical Analysis (Standard Deviation, Coorelation ....) - Gillian, Rakshya and Vrishab
-# Visualization using Matplotlib - Vrishab
-# Output of the data and documentation - Kristel
+# Data Download 
+# Align the reads, Identify AS events, analyze CIGAR strings 
+# Statistical Analysis (Standard Deviation, Coorelation ....) 
+# Visualization using Matplotlib 
+# Output of the data and documentation 
 
 # BME160 Final Project
 """
